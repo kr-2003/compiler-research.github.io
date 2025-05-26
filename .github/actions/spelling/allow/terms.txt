@@ -1,5 +1,6 @@
 AARCH
 BGZF
+Caa
 CINT
 CMSSW
 Cppyy
@@ -10,6 +11,7 @@ GPT
 GSo
 GSoC
 HSF
+IIT
 JIT'd
 Jacobians
 LLMs
@@ -20,6 +22,7 @@ PTX
 Slib
 Softsusy
 Superbuilds
+TBR
 TFormula
 TTree
 aarch
@@ -33,6 +36,8 @@ gitlab
 gridlay
 gsoc
 gpu
+jit
+jthread
 llm
 llvm
 pushforward
@@ -44,13 +49,24 @@ reoptimize
 samtools
 sitemap
 softsusy
+superbuilds
 vimeo
 www
 xcolors
+xcpp
+xdap
+xdebugger
 xeus
 xjson
+xlldb
 xmagics
 xplugin
 youtu
 youtube
 zenodo
+biodynamo
+Caa
+Jurgaityt
+Resugaring
+superbuilds
+TBR
